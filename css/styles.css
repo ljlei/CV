@@ -20,3 +20,7 @@ h3
 {
   color: #6495ED;
 }
+
+.hyperlink:hover {
+  color: white;
+}
